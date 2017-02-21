@@ -1,7 +1,7 @@
-# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Владислав Лебедев](https://up.htmlacademy.ru/javascript/8/user/230726).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Антонов].
 
 ---
 
